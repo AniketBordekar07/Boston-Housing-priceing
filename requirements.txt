@@ -4,6 +4,4 @@ pandas
 numpy
 matplotlib
 seaborn
-matplotlib.pyplot
-warnings
 gunicorn
