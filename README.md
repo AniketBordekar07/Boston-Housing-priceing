@@ -24,3 +24,6 @@ A machine learning pipeline that predicts Boston housing prices using Linear Reg
 git clone https://github.com/AniketBordekar07/Boston-Housing-priceing.git
 cd Boston-Housing-priceing
 pip install -r requirements.txt
+
+### train Model
+python train.py
