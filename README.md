@@ -26,5 +26,8 @@ cd Boston-Housing-priceing
 pip install -r requirements.txt
 ```
 
-### train Model
+### Train Model
 python train.py
+
+### Start API
+python app.py
