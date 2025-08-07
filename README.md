@@ -7,12 +7,11 @@
 
 A machine learning pipeline that predicts Boston housing prices using Linear Regression, with options for local inference, API deployment, and containerization.
 
-![Boston Housing Visualization](https://i.imgur.com/JtQq3Ym.png) *(Example visualization - add your own screenshot)*
 
 ## ✨ Features
 - **End-to-End ML Pipeline**: Data loading → preprocessing → training → evaluation
 - **REST API**: Flask-based endpoint for real-time predictions
-- **Deployment-Ready**: Docker and Heroku support
+- **Deployment-Ready**: Docker and Render support
 - **Metrics**: MSE, R² score, and model coefficients analysis
 
 ## 🚀 Quick Start
